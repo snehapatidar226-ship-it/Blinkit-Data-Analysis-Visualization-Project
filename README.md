@@ -3,9 +3,15 @@ Analyzed Blinkit’s business data and developed an interactive Power BI dashboa
 
 Blinkit-Sales-Dashboard/
 ├── README.md
+
 ├── Blinkit_Dashboard.pbix
+
 ├── images/
+
 │   ├── dashboard_overview.png
+
 │   ├── sales_analysis.png
+
 │   └── customer_insights.png
+
 └── dataset/ (if shareable)
